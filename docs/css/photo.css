@@ -6,6 +6,11 @@
 	margin-bottom: 70px;
 }
 
+/* Выберем такой селектор, который выберет все изображения и скроет их */
+.photo img {
+	display: none;
+}
+
 .instafeed {
 	width: 640px;
 	height: 620px;
